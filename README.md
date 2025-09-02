@@ -1,4 +1,4 @@
-# Car Price Prediction 🚗
+# Car Price Prediction 
 
 A machine learning project to predict car prices using various regression models including Random Forest, Linear Regression, and CatBoost.
 
